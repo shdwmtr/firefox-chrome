@@ -1,0 +1,18 @@
+:root,
+html,
+body {
+  --tabstrip-min-height: 0 !important;
+  --md-text-primary: #e6edf3;
+  --md-text-secondary: #7d8590;
+  --md-accent-color: #878787;
+  --md-background-color-0: #171717;
+  --md-background-color-50: #1c1c1c;
+  --md-background-color-100: #222222;
+  --md-menu-background-color: #373737;
+  --md-menu-background-color-hover: #6e768166;
+  --md-menu-border-color: #31363d;
+  --md-content-separator-color: #30363db3;
+  --md-selection-text-color: var(--md-white);
+  --md-selection-background-color: #878787;
+  --md-text-on-accent: var(--md-white);
+}

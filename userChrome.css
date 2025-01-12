@@ -1,0 +1,11 @@
+@import "user-chrome.css";
+@import "custom.css";
+
+/* Remove extension page warnings */
+#identity-box.extensionPage {
+    width: 10px;
+}
+
+#identity-box.extensionPage #identity-icon-box {
+    display: none !important;
+}
